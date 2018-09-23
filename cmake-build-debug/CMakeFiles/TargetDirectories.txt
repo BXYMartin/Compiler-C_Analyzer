@@ -1,0 +1,3 @@
+/cygdrive/e/Visual Studio C Programming/Windows Studio/CompilerRecognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/Visual Studio C Programming/Windows Studio/CompilerRecognition/cmake-build-debug/CMakeFiles/CompilerRecognition.dir
+/cygdrive/e/Visual Studio C Programming/Windows Studio/CompilerRecognition/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CompilerRecognition.dir/main.cpp.o  -o CompilerRecognition.exe -Wl,--out-implib,libCompilerRecognition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

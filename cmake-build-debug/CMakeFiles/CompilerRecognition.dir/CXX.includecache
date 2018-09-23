@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Visual Studio C Programming/Windows Studio/CompilerRecognition/main.cpp
+iostream
+-
+math.h
+-
+string
+-
+stdlib.h
+-
+stdio.h
+-
+fstream
+-
+
